@@ -2,8 +2,8 @@
 <h1 align="center">Fala comiiiigo 👋</h1><br>
 
 <div>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=psycodelico&show_icons=true&theme=dark"/>
-<img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=psycodelico&layout=compact&show_icons=true&theme=dark"/>
+<img height="180em" src="https://redmef-psys-projects-3e3d498d.vercel.app/api?username=psycodelico&show_icons=true&theme=radical"/>
+<img height="180em" src="https://redmef-psys-projects-3e3d498d.vercel.app/api/top-langs/?username=psycodelico&layout=compact&show_icons=true&theme=radical"/>
 </div>
 
 <div style="display: inline_block"><br>
