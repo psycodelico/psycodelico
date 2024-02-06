@@ -1,4 +1,5 @@
-### Fala comiiiigo 👋
+##
+<h1 align="center">Fala comiiiigo 👋</h1><br>
 
 <div>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=psycodelico&show_icons=true&theme=dark"/>
