@@ -14,7 +14,7 @@
   <img align="center" alt="psycodelico-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="psycodelico-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="psycodelico-DiscordBot" height="30" width="30" src="https://cdn3.emoji.gg/emojis/1564-badge-developer.png">
-  <img align="right" alt="psycodelico" height="100" width="130" src="https://media1.tenor.com/m/w7JSXRK9tsAAAAAC/vanitas-no-carte-anime.gif">
+  <img align="right" alt="psycodelico-gif" height="100" width="130" src="https://media1.tenor.com/m/w7JSXRK9tsAAAAAC/vanitas-no-carte-anime.gif">
 </div>
 
 ##
